@@ -1,3 +1,2 @@
 My first readme
-hahahaha
-sssssssssss
+README.md from github.com
